@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julio\\Downloads\\DemoCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|c:\\users\\julio\\downloads\\democrud\\democrud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|solutionrelative:democrud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|c:\\users\\julio\\downloads\\democrud\\democrud.api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|solutionrelative:democrud.api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|C:\\Users\\Julio\\Downloads\\DemoCrud\\democrud.api\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|solutionrelative:democrud.api\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|c:\\users\\julio\\downloads\\democrud\\democrud.api\\repositories\\carelasticrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|solutionrelative:democrud.api\\repositories\\carelasticrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|c:\\users\\julio\\downloads\\democrud\\democrud.api\\repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|solutionrelative:democrud.api\\repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|c:\\users\\julio\\downloads\\democrud\\democrud.api\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|solutionrelative:democrud.api\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|c:\\users\\julio\\downloads\\democrud\\democrud.api\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|solutionrelative:democrud.api\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|c:\\users\\julio\\downloads\\democrud\\democrud.api\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|solutionrelative:democrud.api\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|c:\\users\\julio\\downloads\\democrud\\democrud.api\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|solutionrelative:democrud.api\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|C:\\Users\\Julio\\Downloads\\DemoCrud\\democrud.api\\validators\\carvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|solutionrelative:democrud.api\\validators\\carvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|C:\\Users\\Julio\\Downloads\\DemoCrud\\democrud.api\\requests\\createcarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|solutionrelative:democrud.api\\requests\\createcarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|C:\\Users\\Julio\\Downloads\\DemoCrud\\democrud.api\\requests\\updatecarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|solutionrelative:democrud.api\\requests\\updatecarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|C:\\Users\\Julio\\Downloads\\DemoCrud\\democrud.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|solutionrelative:democrud.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|C:\\Users\\Julio\\Downloads\\DemoCrud\\democrud.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C83433F1-EDA2-4C86-9E14-59A3DC10EAC0}|DemoCrud.Api\\DemoCrud.Api.csproj|solutionrelative:democrud.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 511,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Program.cs",
+              "RelativeDocumentMoniker": "DemoCrud.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Program.cs",
+              "RelativeToolTip": "DemoCrud.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:55:15.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Repositories\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "DemoCrud.Api\\Repositories\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Repositories\\ICarRepository.cs",
+              "RelativeToolTip": "DemoCrud.Api\\Repositories\\ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:18:50.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarElasticRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Repositories\\CarElasticRepository.cs",
+              "RelativeDocumentMoniker": "DemoCrud.Api\\Repositories\\CarElasticRepository.cs",
+              "ToolTip": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Repositories\\CarElasticRepository.cs",
+              "RelativeToolTip": "DemoCrud.Api\\Repositories\\CarElasticRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:35:41.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Services\\ICarService.cs",
+              "RelativeDocumentMoniker": "DemoCrud.Api\\Services\\ICarService.cs",
+              "ToolTip": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Services\\ICarService.cs",
+              "RelativeToolTip": "DemoCrud.Api\\Services\\ICarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:25:17.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "DemoCrud.Api\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Services\\CarService.cs",
+              "RelativeToolTip": "DemoCrud.Api\\Services\\CarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:25:27.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "DemoCrud.Api\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "DemoCrud.Api\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:07:40.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Contexts\\DataContext.cs",
+              "RelativeDocumentMoniker": "DemoCrud.Api\\Contexts\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Contexts\\DataContext.cs",
+              "RelativeToolTip": "DemoCrud.Api\\Contexts\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:59:28.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "DemoCrud.Api\\Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "DemoCrud.Api\\Repositories\\CarRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:56:16.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateCarRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Requests\\UpdateCarRequest.cs",
+              "RelativeDocumentMoniker": "DemoCrud.Api\\Requests\\UpdateCarRequest.cs",
+              "ToolTip": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Requests\\UpdateCarRequest.cs",
+              "RelativeToolTip": "DemoCrud.Api\\Requests\\UpdateCarRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:41:25.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateCarRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Requests\\CreateCarRequest.cs",
+              "RelativeDocumentMoniker": "DemoCrud.Api\\Requests\\CreateCarRequest.cs",
+              "ToolTip": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Requests\\CreateCarRequest.cs",
+              "RelativeToolTip": "DemoCrud.Api\\Requests\\CreateCarRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:41:24.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "DemoCrud.Api\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Models\\Car.cs",
+              "RelativeToolTip": "DemoCrud.Api\\Models\\Car.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:25:07.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Validators\\CarValidator.cs",
+              "RelativeDocumentMoniker": "DemoCrud.Api\\Validators\\CarValidator.cs",
+              "ToolTip": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Validators\\CarValidator.cs",
+              "RelativeToolTip": "DemoCrud.Api\\Validators\\CarValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:24:29.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DemoCrud.Api\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\Models\\Product.cs",
+              "RelativeToolTip": "DemoCrud.Api\\Models\\Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:50:47.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoCrud.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Julio\\Downloads\\DemoCrud\\DemoCrud.Api\\appsettings.json",
+              "RelativeToolTip": "DemoCrud.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T19:39:22.086Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

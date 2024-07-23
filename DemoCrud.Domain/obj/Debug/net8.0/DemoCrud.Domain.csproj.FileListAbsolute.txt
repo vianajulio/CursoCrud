@@ -1,0 +1,11 @@
+C:\Users\Julio\Downloads\DemoCrud\DemoCrud.Domain\bin\Debug\net8.0\DemoCrud.Domain.deps.json
+C:\Users\Julio\Downloads\DemoCrud\DemoCrud.Domain\bin\Debug\net8.0\DemoCrud.Domain.dll
+C:\Users\Julio\Downloads\DemoCrud\DemoCrud.Domain\bin\Debug\net8.0\DemoCrud.Domain.pdb
+C:\Users\Julio\Downloads\DemoCrud\DemoCrud.Domain\obj\Debug\net8.0\DemoCrud.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio\Downloads\DemoCrud\DemoCrud.Domain\obj\Debug\net8.0\DemoCrud.Domain.AssemblyInfoInputs.cache
+C:\Users\Julio\Downloads\DemoCrud\DemoCrud.Domain\obj\Debug\net8.0\DemoCrud.Domain.AssemblyInfo.cs
+C:\Users\Julio\Downloads\DemoCrud\DemoCrud.Domain\obj\Debug\net8.0\DemoCrud.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Downloads\DemoCrud\DemoCrud.Domain\obj\Debug\net8.0\DemoCrud.Domain.dll
+C:\Users\Julio\Downloads\DemoCrud\DemoCrud.Domain\obj\Debug\net8.0\refint\DemoCrud.Domain.dll
+C:\Users\Julio\Downloads\DemoCrud\DemoCrud.Domain\obj\Debug\net8.0\DemoCrud.Domain.pdb
+C:\Users\Julio\Downloads\DemoCrud\DemoCrud.Domain\obj\Debug\net8.0\ref\DemoCrud.Domain.dll

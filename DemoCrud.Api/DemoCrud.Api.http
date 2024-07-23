@@ -1,0 +1,6 @@
+@DemoCrud.Api_HostAddress = http://localhost:5136
+
+GET {{DemoCrud.Api_HostAddress}}/cars
+Accept: application/json
+
+###
